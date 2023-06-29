@@ -5,29 +5,29 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила веб разработка! С мая 2022 года по апрель 2023 я изучал веб разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Старшим студентом на курсе и помогаю новичкам осваивать веб-разработку!
+Я начинающий Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов.</b>. Далее пробовал найти себя в другом направлении, изучал HTML и CSS. На данном этапе прохожу курсы по Python разработке и планирую работать по этому направлению.
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Участвовал в бассейне Школы 21 от Сбера.
+- :telescope: В процессе
 
-- :seedling: Завершил курсы по веб-разработке Яндекс Практикум!
+- :seedling: В процессе
 
-- :zap: Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.
+- :zap: В процессе
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexeyf08@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chrisdime_lolz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
 
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
+    <a href="linkedin" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/id143658507" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
@@ -55,27 +55,23 @@
 
 ---
 
-<!-- ### 💻 Пройденные курсы:
+💻 Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
 | https://stepik.org/course/58852/                                | 09/2022 - н.в     |
 
---- -->
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 
 ### ⚙️ GitHub статистика:
 
 <table>
   <tr>
     <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SadOnsGit&theme=dark&background=000000" alt="Backend Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="Backend Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SadOnsGit&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
