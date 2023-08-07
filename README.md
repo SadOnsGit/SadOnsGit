@@ -14,7 +14,7 @@
 
 - :zap: В процессе
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-iskhakovaidar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/chrisdime_lolz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-iskhakovaidar-blue?style=flat&logo=Telegram&logoColor=white)](none) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
 
 ---
 
