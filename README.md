@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов)</b>. Далее пробовал найти себя в другом направлении, изучал HTML и CSS. На данном этапе прохожу курсы по Python разработке и планирую работать по этому направлению.
+Я начинающий Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов)</b>. Далее пробовал найти себя в другом направлении, изучал HTML и CSS. Изучаю Python, Django, Flask, Git, FastAPI, SQLAlchemy :)
 
 
 - :telescope: В процессе
