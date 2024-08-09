@@ -51,11 +51,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### 💻 Пройденные курсы:
-https://stepik.org/users/80957855/profile
-
 
 
 ### ⚙️ GitHub статистика:
