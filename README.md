@@ -1,6 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=790b7611z18x9s97hyq7hwh4qtv11ldp0gwxzbf5dp8m5o2k&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+</div>
 
 # Привет, меня зовут Айдар!
-
 ---
 
 ### :man_technologist: Обо мне:
