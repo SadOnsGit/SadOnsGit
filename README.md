@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-plain.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/uwsgi/uwsgi-plain.svg" title="uwsgi" alt="uwsgi" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
 </div>
 
 ---
