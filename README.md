@@ -7,7 +7,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов)</b>. Далее пробовал найти себя в другом направлении, изучал HTML и CSS. Сейчас изучаю Python, Django, Flask, Git, FastAPI, SQLAlchemy :)
+Я Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов)</b>. Изучаю Python и всё что к нему прилагается.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-iskhakovaidar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadons) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
 
