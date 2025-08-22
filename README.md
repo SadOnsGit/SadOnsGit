@@ -9,7 +9,7 @@
 
 Я Python разработчик.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с изучения языка Pawn (<b>Pawn - язык программирования используемый в SAMP для создания модов и фильтрскриптов)</b>. Изучаю Python и всё что к нему прилагается.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-iskhakovaidar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sadons) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-iskhakovaidar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exceptdev) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:aidarko1111@gmail.com)
 
 ---
 
